@@ -45,7 +45,7 @@
                         <a href="/register" class="nav-link"><button class="btn btn-success reg">Registration</button></a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link"><button class="btn btn-success reg1">Login</button></a>
+                        <a href="/login" class="nav-link"><button class="btn btn-success reg1">Login</button></a>
                     </li>
                 </ul>
             </div>
@@ -76,7 +76,7 @@
                 <div class="login">
                 </div>
               <h5>Your Health Is Our Happiness</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
+                    <p>Lorem ipsum dolor sit amet pamudu kalindu, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
                     </p>
             </div>
           </div>
@@ -252,7 +252,7 @@
                   <div class="card text-center">
                       <div class="card-body">
                           <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                      <h3 class="card-title py-2">Gayantha</h3>
+                      <h3 class="card-title py-2">Kalindu</h3>
                       <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                       <p class="socials">
                         <i class="bi bi-whatsapp"></i>
@@ -267,7 +267,7 @@
                   <div class="card text-center">
                       <div class="card-body">
                           <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                      <h3 class="card-title py-2">Gayantha</h3>
+                      <h3 class="card-title py-2">Pamudu</h3>
                       <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                       <p class="socials">
                         <i class="bi bi-whatsapp"></i>
@@ -282,7 +282,7 @@
                 <div class="card text-center">
                     <div class="card-body">
                         <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                    <h3 class="card-title py-2">Gayantha</h3>
+                    <h3 class="card-title py-2">Malka</h3>
                     <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                     <p class="socials">
                       <i class="bi bi-whatsapp"></i>
@@ -298,7 +298,7 @@
                 <div class="card text-center">
                     <div class="card-body">
                         <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                    <h3 class="card-title py-2">Gayantha</h3>
+                    <h3 class="card-title py-2">Gimhani</h3>
                     <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                     <p class="socials">
                       <i class="bi bi-whatsapp"></i>
@@ -314,7 +314,7 @@
                 <div class="card text-center">
                     <div class="card-body">
                         <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                    <h3 class="card-title py-2">Gayantha</h3>
+                    <h3 class="card-title py-2">Shashini</h3>
                     <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                     <p class="socials">
                       <i class="bi bi-whatsapp"></i>
@@ -329,7 +329,7 @@
                 <div class="card text-center">
                     <div class="card-body">
                         <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                    <h3 class="card-title py-2">Gayantha</h3>
+                    <h3 class="card-title py-2">Sarmani</h3>
                     <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                     <p class="socials">
                       <i class="bi bi-whatsapp"></i>
@@ -344,7 +344,7 @@
                   <div class="card text-center">
                       <div class="card-body">
                           <img src="img/team-1.jpg" alt="" class="img-fluid rounded-circle">
-                      <h3 class="card-title py-2">Gayantha</h3>
+                      <h3 class="card-title py-2">Ishani</h3>
                       <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi ipsam nostrum illo tempora esse quibusdam.</p>
                       <p class="socials">
                         <i class="bi bi-whatsapp"></i>
