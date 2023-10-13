@@ -76,7 +76,7 @@
                 <div class="login">
                 </div>
               <h5>Your Health Is Our Happiness</h5>
-                    <p>Lorem ipsum dolor sit amet pamudu, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
+                    <p>Lorem ipsum dolor sit amet pamudu kalindu, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
                     </p>
             </div>
           </div>
