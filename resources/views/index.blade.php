@@ -76,11 +76,11 @@
                 <div class="login">
                 </div>
               <h5>Your Health Is Our Happiness</h5>
-<<<<<<< Updated upstream
+
                     <p>Lorem ipsum dolor sit amet pamudu, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
-=======
-                    <p>Lorem ipsum dolor sit amet pamudu fer, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
->>>>>>> Stashed changes
+
+                    <p>Lorem ipsum dolor sit amet pamudu fernando, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.
+
                     </p>
             </div>
           </div>
