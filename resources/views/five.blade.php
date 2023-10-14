@@ -5,7 +5,7 @@
             border: 2px soild #ff5733;
             border-radius:20px;
             backdrop-filter:blur(10px);
-            width: 1400px;
+            width: 1300px;
             height: 700px;
             margin: auto;
             display: flex;
