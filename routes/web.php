@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\RegController;
+
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\ForgetPasswordManager;
