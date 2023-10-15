@@ -27,19 +27,23 @@ use Illuminate\Support\Facades\Mail;
 
 Route::get('/login', [RegController::class,'login'])->name('login');
 */
-
+//Home
 Route::get('/', function () {
     return view('index');
 })->name('home');
 
+//Patient interface
 Route::get('/Patient', function () {
     return view('Signin.welcome');
 })->name('Patient');
 
+//admin add caregiver
 Route::get("/admin",[CaregiverController::class,"index"])->name("caregivers.index");
 Route::get("/caregivers/create",[CaregiverController::class,"create"])->name("caregivers.create");
 Route::post("/caregivers/store",[CaregiverController::class,"store"])->name("caregivers.store");
 
+
+//admin curd
 Route::get("caregivers/{id}/edit",[CaregiverController::class,"edit"]);
 Route::put("caregivers/{id}/update",[CaregiverController::class,"update"]);
 Route::delete("caregivers/{id}/delete",[CaregiverController::class,"destory"]);
