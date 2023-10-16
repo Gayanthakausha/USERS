@@ -56,10 +56,10 @@
             </li>
             @else
             <li class="nav-item ">
-              <a class="nav-link " href="{{route("regi")}}">Signin</a>
+              <a class="nav-link " href="{{route("regi")}}"><button class="btn btn-success reg">Signin</button></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{route('login')}}">Login</a>
+              <a class="nav-link" href="{{route('login')}}"><button class="btn btn-success reg1">Login</button></a>
             </li>
             @endauth
           </ul>
