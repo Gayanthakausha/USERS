@@ -21,11 +21,11 @@
 
             <div class="container d-flex justify-content-center align-items-center min-vh-10">
                 <div class="row border rounded-5 p-3 bg-white shadow box-area" style="margin-bottom: 100px; height:560px">
-                    <div class="col-md-6 rounded-4 d-flex justify-content-center align-items-center flex-column left-box" style="background-image url(/img/1.jpg);height:500px;">
+                    <div class="col-md-6 rounded-4 d-flex justify-content-center align-items-center flex-column left-box" style="width:100px;height:500px;">
                         <div class="featured-image mb-3">
-                            <img src="/img/11.png" class="img-fluid" style="width: 300px; height:300px;">
+                            <img src="/img/11.jpg" class="img-fluid" style="width: 650px; height:500px; margin-top:100px;">
                         </div>
-                        <p class="text-white fs-2" style="font-family: 'Courier New', Courier, monospace; font-weight: 600;">WELCOME TO CARELINK</p>
+                        <p class="" style="font-family: 'Courier New', Courier, monospace; font-weight: 600; color: rgb(128, 67, 208);margin-bottom:50px;">WELCOME TO CARELINK</p>
                             <form action="{{route('login.post')}}" method="POST" class="ms-auto me-auto mt-3" style="width:500px">
                              @csrf
                         </div>
