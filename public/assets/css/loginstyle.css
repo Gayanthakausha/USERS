@@ -19,9 +19,9 @@ body{
     left: 0;
     width: 0;
     height: 100%;
-    color: #01fe87;
+    color: #2701fe;
     -webkit-text-stroke: 0vx #383d52;
-    border-right: 2px solid #01fe87;
+    border-right: 2px solid #2701fe;
     overflow: hidden;
     animation: animate 6s linear infinite;
 
