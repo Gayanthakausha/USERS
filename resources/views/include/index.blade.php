@@ -44,10 +44,7 @@
               </li>
               <li class="nav-item">
                <i class="bi bi-globe2" style="display: inline-block; vertical-align: middle;margin-left:30px;"></i>
-               <select class="nav-link" style="display: inline-block; vertical-align: middle;">
-                    <option value=""><a href="">English</a></option>
-                    <option value=""><a href="">Sinhala</a></option>
-                </select>
+               
             </li>
             @endauth
             @auth
