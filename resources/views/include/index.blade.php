@@ -42,9 +42,7 @@
               <li class="nav-item">
                 <a class="nav-link" href="#contact">Contact</a>
               </li>
-              <li class="nav-item">
-               <i class="bi bi-globe2" style="display: inline-block; vertical-align: middle;margin-left:30px;"></i>
-               
+              
             </li>
             @endauth
             @auth
