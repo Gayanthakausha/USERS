@@ -29,7 +29,7 @@
                 <div class="login">
                 </div>
               <h5>Always Dedicated</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>Lorem ipsum dolor malka sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
 
             </div>
           </div>
