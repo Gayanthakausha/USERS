@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('apponiments', function (Blueprint $table) {
             $table->id('Appoinment_id');
             $table->unsignedBigInteger('User_id');
-            $table->foreign('User_id')->references('User_id')->on('user');
+            $table->foreign('User_id')->references('User_id')->on('careusers');
             $table->date('Appoinment_date');
             $table->string('Service_Category');
             $table->date('Appoinment_Make_date');
