@@ -42,12 +42,7 @@
               <li class="nav-item">
                 <a class="nav-link" href="#contact">Contact</a>
               </li>
-              <li class="nav-item">
-               <i class="bi bi-globe2" style="display: inline-block; vertical-align: middle;margin-left:30px;"></i>
-               <select class="nav-link" style="display: inline-block; vertical-align: middle;">
-                    <option value=""><a href="">English</a></option>
-                    <option value=""><a href="">Sinhala</a></option>
-                </select>
+              
             </li>
             @endauth
             @auth
@@ -56,10 +51,10 @@
             </li>
             @else
             <li class="nav-item ">
-              <a class="nav-link " href="{{route("regi")}}">Signin</a>
+              <a class="nav-link " href="{{route("regi")}}"><button class="btn btn-success reg">Signin</button></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{route('login')}}">Login</a>
+              <a class="nav-link" href="{{route('login')}}"><button class="btn btn-success reg1">Login</button></a>
             </li>
             @endauth
           </ul>
