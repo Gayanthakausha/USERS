@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('feedbacks', function (Blueprint $table) {
             $table->unsignedBigInteger('User_id');
-            $table->foreign('User_id')->references('User_id')->on('user');
+            $table->foreign('User_id')->references('User_id')->on('careusers');
             $table->text('Comments');
             $table->string('Rates');
             $table->timestamps();

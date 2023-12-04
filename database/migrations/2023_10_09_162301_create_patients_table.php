@@ -12,8 +12,15 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('patients', function (Blueprint $table) {
-            $table->unsignedBigInteger('User_id');
-            $table->foreign('User_id')->references('User_id')->on('user');
+            $table->unsignedBigInteger('p_id');
+            $table->foreign('p_id')->references('User_id')->on('careusers');
+            $table->string('Full_name',255);
+            $table->string('NIC');
+            $table->string('Address');
+            $table->string('Gender');
+            $table->string('Current_location');
+            $table->date('Dob');
+            $table->string('Photo');
             $table->string('Status');
             $table->string('Age_Category');
             $table->timestamps();

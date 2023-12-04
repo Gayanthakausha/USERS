@@ -12,8 +12,12 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('guardians', function (Blueprint $table) {
-            $table->unsignedBigInteger('User_id');
-            $table->foreign('User_id')->references('User_id')->on('user');
+            $table->unsignedBigInteger('g_id');
+            $table->foreign('g_id')->references('User_id')->on('careusers');
+            $table->string('Full_name',255);
+            $table->string('NIC');
+            $table->string('Address');
+            $table->string('Gender');
             $table->string('Relationship');
             $table->timestamps();
         });
